@@ -9,71 +9,95 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/01.Scenes/MainMenu.unity
+    path: Assets/01.Scenes/Dialogue/MainMenu.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/01.Scenes/PlayScene01.unity
+    path: Assets/01.Scenes/Dialogue/PlayScene01.unity
     guid: 8d66d048c6b5bd045a648e731464ebcc
   - enabled: 1
-    path: Assets/01.Scenes/PlayScene02.unity
+    path: Assets/01.Scenes/Dialogue/PlayScene02.unity
     guid: 531693a2cb5ebfe49a620ea4f6da2d03
   - enabled: 1
-    path: Assets/01.Scenes/PlayScene03.unity
+    path: Assets/01.Scenes/Dialogue/PlayScene03.unity
     guid: 553d84b691666fb43aaab2eceadabc72
   - enabled: 1
-    path: Assets/01.Scenes/PlayScene04.unity
+    path: Assets/01.Scenes/Dialogue/PlayScene04.unity
     guid: 5af9a4ee36626cf408abf3bc366d932d
   - enabled: 1
-    path: Assets/01.Scenes/PlayScene05.unity
+    path: Assets/01.Scenes/Dialogue/PlayScene05.unity
     guid: bebf733107987624ca9568db890395a9
   - enabled: 1
-    path: Assets/01.Scenes/PlayScene06.unity
+    path: Assets/01.Scenes/Dialogue/PlayScene06.unity
     guid: 22cf3892940c0364ea3711c5be3d20b5
   - enabled: 1
-    path: Assets/01.Scenes/PlayScene07.unity
+    path: Assets/01.Scenes/Dialogue/PlayScene07.unity
     guid: 6c683674da6be8149830f859a9c13ee2
   - enabled: 1
-    path: Assets/01.Scenes/PlayScene08.unity
+    path: Assets/01.Scenes/Dialogue/PlayScene08.unity
     guid: 98b44534d7c464d4882a36dc782b9e09
   - enabled: 1
-    path: Assets/01.Scenes/PlayScene09.unity
+    path: Assets/01.Scenes/Dialogue/PlayScene09.unity
     guid: e0df0bf93b87300409db3bed73fe60f2
   - enabled: 1
-    path: Assets/01.Scenes/PlayScene10.unity
+    path: Assets/01.Scenes/Dialogue/PlayScene10.unity
     guid: 6630115cab7f6224c9a63b96cf76a6b4
   - enabled: 1
-    path: Assets/01.Scenes/PlayScene11.unity
+    path: Assets/01.Scenes/Dialogue/PlayScene11.unity
     guid: e791c2c086165f14788147810b1e1349
   - enabled: 1
-    path: Assets/01.Scenes/PlayScene12.unity
+    path: Assets/01.Scenes/Dialogue/PlayScene12.unity
     guid: 1f1415d4991fd974eb88d952ce6dd00e
   - enabled: 1
-    path: Assets/01.Scenes/PlayScene13.unity
+    path: Assets/01.Scenes/Dialogue/PlayScene13.unity
     guid: 10be247852bb6fc4d81cfc84c1e40b79
   - enabled: 1
-    path: Assets/01.Scenes/PlayScene14.unity
+    path: Assets/01.Scenes/Dialogue/PlayScene14.unity
     guid: aba2bd6d13cc8174ebdd9c4889c1e56a
   - enabled: 1
-    path: Assets/01.Scenes/PlayScene15.unity
+    path: Assets/01.Scenes/Dialogue/PlayScene15.unity
     guid: d926859ba81fb3f42b045e330245a358
   - enabled: 1
-    path: Assets/01.Scenes/PlayScene16.unity
+    path: Assets/01.Scenes/Dialogue/PlayScene16.unity
     guid: e043084a6e4a65444a0a843b0c138e59
   - enabled: 1
-    path: Assets/01.Scenes/PlayScene17.unity
+    path: Assets/01.Scenes/Dialogue/PlayScene17.unity
     guid: cd0af228c4d13dd4c9b6c31e667e914a
   - enabled: 1
-    path: Assets/01.Scenes/PlayScene18.unity
+    path: Assets/01.Scenes/Dialogue/PlayScene18.unity
     guid: 9b326b5bc31583b429f80c9cef6dbd92
   - enabled: 1
-    path: Assets/01.Scenes/PlayScene19.unity
+    path: Assets/01.Scenes/Dialogue/PlayScene19.unity
     guid: 7cf60957191b0584a8acdef72a8ea2d8
   - enabled: 1
-    path: Assets/01.Scenes/PlayScene20.unity
+    path: Assets/01.Scenes/Dialogue/PlayScene20.unity
     guid: 5ebf1e93e03626e4daa71023950df806
   - enabled: 1
-    path: Assets/01.Scenes/PlayScene21.unity
+    path: Assets/01.Scenes/Dialogue/PlayScene21.unity
     guid: 87839b750d8aa974e904b9d70c503e1e
+  - enabled: 1
+    path: Assets/01.Scenes/Dialogue/PlayScene22.unity
+    guid: 3556a40397889964a957a6f847c493b7
+  - enabled: 1
+    path: Assets/01.Scenes/Dialogue/PlayScene24.unity
+    guid: 90ec86abfcf2e1a4faf2ec02adf598c1
+  - enabled: 1
+    path: Assets/01.Scenes/Dialogue/PlayScene23.unity
+    guid: 41fac60fc8ca0a241b7eecd93b3e9f3c
+  - enabled: 1
+    path: Assets/01.Scenes/Dialogue/PlayScene25.unity
+    guid: e957bc80c1ac2a14e94767013344d8b4
+  - enabled: 1
+    path: Assets/01.Scenes/Dialogue/PlayScene26.unity
+    guid: aa332e4e669010d4583ab4b79214d8a7
+  - enabled: 1
+    path: Assets/01.Scenes/Scene_A.unity
+    guid: c0d944ca9defd20449bc336e50d75a08
+  - enabled: 1
+    path: Assets/01.Scenes/GameOver/GameOver01.unity
+    guid: 63ee3b3dd628e714e8578a5bd81510b1
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
